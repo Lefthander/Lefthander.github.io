@@ -6,16 +6,16 @@ favicon: images/favicon.ico
 name: Sergey Olisov
 title: Senior Solution Architect. Developer
 email: olisov.sergey@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
+twitter_username: sergeyolisov
 github_username:  Lefhander
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: sergeyolisov
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
