@@ -3,14 +3,14 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Sergey Olisov
+title: Senior Solution Architect. Developer
+email: olisov.sergey@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  Lefhander
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
