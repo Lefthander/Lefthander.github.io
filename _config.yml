@@ -24,7 +24,7 @@ linkedin_username: sergeyolisov
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sergey and I'm a senior solution architect. As well as designing complex telecom solutions I also have experience making software and digital hardware.
+  Hi, my name's Sergey and I'm a Senior Solution Architect and Developer with over 15 years experience in telecom and 5 years experience in RnD. As well as designing complex telecom solutions I also have experience making software and digital hardware.
 
   I am most skilled in: <mark>Openstack</mark> and <mark>Telecom</mark>
 
