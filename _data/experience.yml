@@ -3,8 +3,8 @@
   link: ericsson.com
   job_title: Senior Solution Architect
   dates: March 2005 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#  quote: >
+#   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
     It was a interesting journey from the Junior Technical Support Engineer to Senior Technical Support Engineer and after that the Senior Solution Architect.
     Solving problems, Doing Integration Task, Handling Emergency, Leading the teams of engineers, Creating a solutions
@@ -17,4 +17,4 @@
 #  quote: >
 #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    Design & Develop the varios digital stuff based on FPGA
+    Design & Develop the various digital stuff based on FPGA
