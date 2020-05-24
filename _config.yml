@@ -40,15 +40,15 @@ about_content: | # this will include new lines to allow paragraphs
   To my great regret I never have been a proffesional programmer, the programming was always a secodnary additional task in my daily work. But from the school time I dream to be a proffecional programmer. :(
 
   Some other technologies & tools which I know and use: 
-    <mark> Docker </mark>, <mark> Kubernetes </mark>, <mark> OpenStack </mark>, <mark> Git </mark>, <mark> Wireshark </mark>, <mark> RabbitMQ </mark>, <mark> MongoDB </mark>, <mark> PostgresSQL </mark>
-    <mark> Linux </mark>, <mark> Bash </mark>
+    <mark> Docker </mark>, <mark> Kubernetes </mark>, <mark> OpenStack </mark>, <mark> Git </mark>, <mark> Wireshark </mark>, <mark> RabbitMQ </mark>, <mark> MongoDB </mark>, <mark> PostgresSQL </mark>,
+     <mark> Linux </mark>, <mark> Bash </mark>
 
   Now I am actively studying the <mark> Erlang </mark> / <mark>Elixir</mark> languages.
 
   I have passed some external training & courses:
 
    - Mirantis Proffesional OpenStack Administrator. Certificate number: 200-033-032
-   - [Otus Go Developer Course] (https://otus.ru/lessons/razrabotchik-golang/?int_source=courses_catalog&int_term=programming)
+   - [Otus Go Developer Course](https://otus.ru/lessons/razrabotchik-golang/?int_source=courses_catalog&int_term=programming)
    - SOLOLEARN Python 3 Tutorial Course. Certificate number: 1073-4237903
    - AWS Technical Proffesional Assesment
    - [DataCamp Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/beed1c6be06f495e8d9344eed9c83bb799b90350?share=1&fbclid=IwAR0ggdr3DrN8rjUNUM0SUgG4Udg_L6hbh8yKLcwdKxyuz6oThkkgTBWitV4)
