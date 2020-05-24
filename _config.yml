@@ -39,6 +39,8 @@ about_content: | # this will include new lines to allow paragraphs
   and like general purpose languages: <mark>GNU C/C++</mark>,<mark>Watcom C++</mark>,<mark> C#</mark>,<mark> Python</mark> and <mark> Golang </mark>. Last few years I mostly use in my projects the <mark> Golang</mark> language.
   To my great regret I never have been a proffesional programmer, the programming was always a secodnary additional task in my daily work. But from the school time I dream to be a proffecional programmer. :(
 
+  Some other technologies & tools which I know and use: 
+    <mark> Docker </mark>, <mark> Kubernetes </mark>, <mark> OpenStack </mark>, <mark> Git </mark>, <mark> Wireshark </mark>, <mark> RabbitMQ </mark>, <mark> MongoDB </mark>, <mark> PostgresSQL </mark>
 # Projects Section
 # projects_title: Projects
 
@@ -55,7 +57,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Drawing
    - Gaming
    - Electric guitar
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 
 # Footer
 footer_show_references: true
